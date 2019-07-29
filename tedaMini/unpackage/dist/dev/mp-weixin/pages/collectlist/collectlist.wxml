@@ -1,0 +1,2 @@
+<import src="./collectlist.vue.wxml" />
+    <template is="9ddec028" data="{{ ...$root['0'], $root }}"/>

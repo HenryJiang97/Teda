@@ -1,0 +1,44 @@
+{"level":"info","message":"Create new client: d01cd08f-c640-4d4e-9912-7be40f8cf217","timestamp":"2019-07-22T06:12:00.057Z"}
+{"level":"info","message":"Client disconnect: d01cd08f-c640-4d4e-9912-7be40f8cf217","timestamp":"2019-07-22T06:12:26.030Z"}
+{"level":"info","message":"Create new client: e889ba53-be25-47a5-8b6e-5e7144bc8b28","timestamp":"2019-07-22T06:12:27.424Z"}
+{"level":"info","message":"Client disconnect: e889ba53-be25-47a5-8b6e-5e7144bc8b28","timestamp":"2019-07-22T06:12:32.196Z"}
+{"level":"info","message":"Create new client: c9f6d254-7e96-44ba-93ba-1121f1ff44ac","timestamp":"2019-07-22T06:12:33.006Z"}
+{"level":"info","message":"Client disconnect: c9f6d254-7e96-44ba-93ba-1121f1ff44ac","timestamp":"2019-07-22T06:12:35.502Z"}
+{"level":"info","message":"Create new client: f3d62f3c-4515-429b-9cb0-8a423f4d5fd7","timestamp":"2019-07-22T06:12:36.308Z"}
+{"level":"info","message":"Client disconnect: f3d62f3c-4515-429b-9cb0-8a423f4d5fd7","timestamp":"2019-07-22T06:12:43.816Z"}
+{"level":"info","message":"Create new client: d7524200-b003-4e50-abaf-7e4ebb3b8d1b","timestamp":"2019-07-22T06:12:44.643Z"}
+{"level":"info","message":"Client disconnect: d7524200-b003-4e50-abaf-7e4ebb3b8d1b","timestamp":"2019-07-22T06:16:14.039Z"}
+{"level":"info","message":"Create new client: 5e9ccd6d-b870-4b6c-81a1-9c3f09c14e66","timestamp":"2019-07-22T06:16:15.473Z"}
+{"level":"info","message":"Client disconnect: 5e9ccd6d-b870-4b6c-81a1-9c3f09c14e66","timestamp":"2019-07-22T07:04:24.287Z"}
+{"level":"info","message":"Create new client: 362b8be6-496b-41eb-a19f-3360255eba55","timestamp":"2019-07-22T07:04:25.255Z"}
+{"level":"info","message":"Client disconnect: 362b8be6-496b-41eb-a19f-3360255eba55","timestamp":"2019-07-22T07:04:40.267Z"}
+{"level":"info","message":"Create new client: a61b9032-5b5f-4891-832c-e54faf624949","timestamp":"2019-07-22T07:04:41.087Z"}
+{"level":"info","message":"Client disconnect: a61b9032-5b5f-4891-832c-e54faf624949","timestamp":"2019-07-22T07:50:12.900Z"}
+{"level":"info","message":"Create new client: b5b56e65-9666-45ad-a1cc-6d226e73ac81","timestamp":"2019-07-22T07:50:20.758Z"}
+{"level":"info","message":"Client disconnect: b5b56e65-9666-45ad-a1cc-6d226e73ac81","timestamp":"2019-07-22T07:50:41.432Z"}
+{"level":"info","message":"Create new client: 860ae641-a89d-4d2e-ba9f-82bcb682882a","timestamp":"2019-07-22T07:50:42.255Z"}
+{"level":"info","message":"Client disconnect: 860ae641-a89d-4d2e-ba9f-82bcb682882a","timestamp":"2019-07-22T07:50:47.465Z"}
+{"level":"info","message":"Create new client: d8a0688f-7275-4108-a001-6a93798fca53","timestamp":"2019-07-22T07:50:48.842Z"}
+{"level":"info","message":"Client disconnect: d8a0688f-7275-4108-a001-6a93798fca53","timestamp":"2019-07-22T07:50:57.526Z"}
+{"level":"info","message":"Create new client: 15beaebc-a9b5-4edc-a653-9758a6030526","timestamp":"2019-07-22T07:50:58.326Z"}
+{"level":"info","message":"Client disconnect: 15beaebc-a9b5-4edc-a653-9758a6030526","timestamp":"2019-07-22T07:51:01.285Z"}
+{"level":"info","message":"Create new client: 2176ab92-b798-48d0-a7dd-194f7d0f7dbd","timestamp":"2019-07-22T09:45:30.436Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T09:45:31.441Z"}
+{"level":"info","message":"Client disconnect: 2176ab92-b798-48d0-a7dd-194f7d0f7dbd","timestamp":"2019-07-22T09:55:26.860Z"}
+{"level":"info","message":"Create new client: 34b6782c-963c-4187-b641-2b3fb3ba9439","timestamp":"2019-07-22T09:55:58.912Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T09:55:59.588Z"}
+{"level":"info","message":"Client disconnect: 34b6782c-963c-4187-b641-2b3fb3ba9439","timestamp":"2019-07-22T09:56:17.855Z"}
+{"level":"info","message":"Create new client: 0b5eb6ce-a804-4290-835d-20ee620fb785","timestamp":"2019-07-22T09:56:26.562Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T09:56:26.927Z"}
+{"level":"info","message":"Client disconnect: 0b5eb6ce-a804-4290-835d-20ee620fb785","timestamp":"2019-07-22T09:56:31.542Z"}
+{"level":"info","message":"Create new client: df466bb5-afb6-4504-b4d7-74f367fba7ca","timestamp":"2019-07-22T09:56:35.402Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T09:56:35.849Z"}
+{"level":"info","message":"Client disconnect: df466bb5-afb6-4504-b4d7-74f367fba7ca","timestamp":"2019-07-22T09:57:02.845Z"}
+{"level":"info","message":"Create new client: 525be83d-4c46-49f1-bcbf-cd46df3ffe62","timestamp":"2019-07-22T10:01:08.160Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T10:01:08.835Z"}
+{"level":"info","message":"Client disconnect: 525be83d-4c46-49f1-bcbf-cd46df3ffe62","timestamp":"2019-07-22T10:02:09.012Z"}
+{"level":"info","message":"Create new client: 3ee4b6d3-b60c-4e99-ba55-f4968f84a481","timestamp":"2019-07-22T10:02:18.582Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T10:02:19.284Z"}
+{"level":"info","message":"Client disconnect: 3ee4b6d3-b60c-4e99-ba55-f4968f84a481","timestamp":"2019-07-22T10:02:39.573Z"}
+{"level":"info","message":"Create new client: 37a50da3-cfd9-41b2-8ecb-3735e400a203","timestamp":"2019-07-22T10:02:50.147Z"}
+{"functionName":"getMessage","params":{"conversationId":"wLwyIFAkkTYa7kqqUOSU"},"level":"info","message":"Ran cloud function getMessage for user undefined with:\n  Input: {\"conversationId\":\"wLwyIFAkkTYa7kqqUOSU\"}\n  Result: [{\"message\":\"Hi, there!\",\"sender\":\"User1\",\"time\":\"Fri Jul 19 2019 10:01:03 GMT+0800 (China Standard Time)\"},{\"message\":\"Hi, again\",\"sender\":\"User2\",\"time\":\"Fri Jul 19 2019 10:07:37 GMT+0800 (China Standard Time)\"}]","timestamp":"2019-07-22T10:02:50.519Z"}

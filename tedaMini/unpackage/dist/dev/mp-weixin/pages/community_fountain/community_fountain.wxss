@@ -1,0 +1,11 @@
+
+.pins .cu-card {
+	display: inline-block;
+	width: 100%;
+	/* box-shadow: 0 0 10rpx 0 rgba(0,0,0,0.10); */
+	-webkit-column-break-inside: avoid;
+	   -moz-column-break-inside: avoid;
+	        break-inside: avoid;
+	overflow: auto;
+}
+

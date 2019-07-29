@@ -1,0 +1,12 @@
+
+.uni-list-cell-navigate ._img.data-v-01153ea7 {
+	width: 30rpx;
+	height: 30rpx;
+}
+.uni-list-cell-navigate.data-v-01153ea7 {
+	-webkit-box-pack: start;
+	-webkit-justify-content: start;
+	    -ms-flex-pack: start;
+	        justify-content: start;
+}
+

@@ -1,0 +1,40 @@
+
+.footer.data-v-9e9bc472 {
+	margin-top: 80rpx;
+}
+.cell-pd.data-v-9e9bc472 {
+	padding: 20rpx 30rpx;
+}
+.uni-textarea.data-v-9e9bc472 {
+	width: auto;
+	padding: 20rpx 25rpx;
+	line-height: 1.6;
+	height: 150rpx;
+}
+.uni-list.data-v-9e9bc472::before {
+	height: 0;
+}
+.uni-list.data-v-9e9bc472:after {
+	height: 0;
+}
+.list-pd.data-v-9e9bc472 {
+	margin-top: 0;
+}
+.close-view.data-v-9e9bc472 {
+	text-align: center;
+	line-height: 22rpx;
+	height: 24rpx;
+	width: 24rpx;
+	border-radius: 50%;
+	background: #ef5350;
+	color: #ffffff;
+	position: absolute;
+	top: 6rpx;
+	right: 8rpx;
+	font-size: 24rpx;
+}
+.page.data-v-9e9bc472 {
+	width: 750rpx;
+	height: 100%;
+}
+

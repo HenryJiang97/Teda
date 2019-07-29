@@ -1,0 +1,1 @@
+<template name="8cda798c"><view class="_div M8cda798c"><view class="_ul M8cda798c container log-list"><view wx:key="index" key="{{index}}" class="_li M8cda798c log-item {{[aa ? 'red' : '']}}" wx:for="{{logs}}" wx:for-index="index" wx:for-item="log"><card text="{{(index + 1) + ' . ' + log}}" class="_card M8cda798c"></card></view></view></view></template>

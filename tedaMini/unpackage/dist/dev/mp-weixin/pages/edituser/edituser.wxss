@@ -1,0 +1,21 @@
+
+page {
+	background-color: #efeff4;
+}
+.input-view {
+	font-size: 28rpx;
+}
+.close-view {
+	text-align: center;
+	line-height: 20rpx;
+	height: 30rpx;
+	width: 30rpx;
+	border-radius: 50%;
+	background: #ff5053;
+	color: #ffffff;
+	position: absolute;
+	top: -10rpx;
+	right: -10rpx;
+	font-size: 20rpx;
+}
+

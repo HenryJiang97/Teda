@@ -1,0 +1,195 @@
+<import src="/components/cu-custom.vue.wxml" />
+<import src="/components/footMenu.vue.wxml" />
+<import src="/components/comment.vue.wxml" />
+<import src="/components/sunui-upimg/sunui-upimg-alioos.vue.wxml" />
+
+<template name="data-v-cf863e0e-default-085272ac-0"></template>
+
+<template name="data-v-cf863e0e-content-085272ac-0">我的车辆</template>
+
+<template name="M704de4da-default-704de4da-0"></template>
+
+<template name="M704de4da-backText-704de4da-0">返回</template>
+
+<template name="M704de4da-content-704de4da-0">聊天</template>
+
+<template name="data-v-1ef9f299-default-2ef6fbcc-0"></template>
+
+<template name="data-v-1ef9f299-backText-2ef6fbcc-0">返回</template>
+
+<template name="data-v-1ef9f299-content-2ef6fbcc-0">品牌详情</template>
+
+<template name="data-v-2d748bd6-default-2fe78c70-0"></template>
+
+<template name="data-v-2d748bd6-backText-2fe78c70-0">返回</template>
+
+<template name="data-v-2d748bd6-content-2fe78c70-0">商品详情</template>
+
+<template name="M7612a8ba-default-7612a8ba-0"></template>
+
+<template name="M7612a8ba-backText-7612a8ba-0">返回</template>
+
+<template name="M7612a8ba-content-7612a8ba-0">选择品牌</template>
+
+<template name="M2f174fc0-default-2f174fc0-0"></template>
+
+<template name="M2f174fc0-content-2f174fc0-0">TedaGroup</template>
+
+<template name="M2f174fc0-default-2f174fc0-2"></template>
+
+<template name="M2f174fc0-backText-2f174fc0-2"></template>
+
+<template name="M2f174fc0-content-2f174fc0-2"></template>
+
+<template name="M408a3fb8-default-408a3fb8-0"></template>
+
+<template name="M408a3fb8-content-408a3fb8-0">我的订单</template>
+
+<template name="M069670da-default-069670da-0"></template>
+
+<template name="M069670da-content-069670da-0">{{ i18n.com }}</template>
+
+<template name="M3a194610-default-3a194610-0"></template>
+
+<template bindtap="handleProxy" data-eventid="{{'3a194610-1'}}" data-comkey="{{$k}}" name="M3a194610-backText-3a194610-0"><view wx:if="{{user.wxProfile}}" class="_view M3a194610 cu-avatar round" style=" {{'background-image:url(' + user.wxProfile.avatarUrl + '); margin: 0 ;'}}"></view><view wx:if="{{user.wxProfile}}" class="_p M3a194610 margin-lr">{{ user.wxProfile.nickName }}</view><view class="_div M3a194610 cu-tag bg-red radius" bindtap="handleProxy" data-eventid="{{'3a194610-0'}}" data-comkey="{{$k}}">关注</view></template>
+
+<template name="M3c050b08-default-3c050b08-0"></template>
+
+<template name="M3c050b08-backText-3c050b08-0">返回</template>
+
+<template name="M3c050b08-content-3c050b08-0">设置</template>
+
+<template name="M482dcea4-default-482dcea4-0"></template>
+
+<template name="M482dcea4-content-482dcea4-0">{{ i18n.com }}</template>
+
+<template name="data-v-9e9bc472-default-765d2e0c-0"></template>
+
+<template name="data-v-9e9bc472-content-765d2e0c-0">评论</template>
+
+<template name="M64648e8c-default-64648e8c-0"></template>
+
+<template name="M64648e8c-backText-64648e8c-0">返回</template>
+
+<template name="M64648e8c-content-64648e8c-0">城市选择</template>
+
+<template name="data-v-385724c7-default-3cf1f28c-0"></template>
+
+<template name="data-v-385724c7-backText-3cf1f28c-0">返回</template>
+
+<template name="data-v-385724c7-content-3cf1f28c-0">我的车辆</template>
+
+<template name="data-v-37390ff2-default-1f3f7c7a-0"></template>
+
+<template name="data-v-37390ff2-backText-1f3f7c7a-0">返回</template>
+
+<template name="data-v-37390ff2-content-1f3f7c7a-0">社区</template>
+
+<template name="Mf1b41c4c-default-f1b41c4c-0"></template>
+
+<template name="Mf1b41c4c-backText-f1b41c4c-0">返回</template>
+
+<template name="Mf1b41c4c-content-f1b41c4c-0">车辆信息</template>
+
+<template name="Mce1d534c-default-ce1d534c-0"></template>
+
+<template name="Mce1d534c-content-ce1d534c-0">买车</template>
+
+<template name="data-v-01153ea7-default-7ee768cc-0"></template>
+
+<template name="data-v-01153ea7-backText-7ee768cc-0">{{i18n.commonBack}}</template>
+
+<template name="data-v-01153ea7-content-7ee768cc-0">{{i18n.myTitle}}</template>
+
+<template name="M1d6f8ccc-default-1d6f8ccc-0"></template>
+
+<template name="M1d6f8ccc-backText-1d6f8ccc-0">返回</template>
+
+<template name="M1d6f8ccc-content-1d6f8ccc-0">高级筛选</template>
+
+<template name="Mcbc5fdcc-default-cbc5fdcc-0"></template>
+
+<template name="Mcbc5fdcc-backText-cbc5fdcc-0">返回</template>
+
+<template name="Mcbc5fdcc-content-cbc5fdcc-0">分类导航</template>
+
+<template name="Mbd07430c-default-bd07430c-0"></template>
+
+<template name="Mbd07430c-backText-bd07430c-0">返回</template>
+
+<template name="Mbd07430c-content-bd07430c-0">小刚</template>
+
+<template name="data-v-1ac15eee-default-1d8b6688-0"></template>
+
+<template name="data-v-1ac15eee-backText-1d8b6688-0">返回</template>
+
+<template name="data-v-1ac15eee-content-1d8b6688-0">用户喜欢的产品</template>
+
+<template name="data-v-36d71d47-default-1ed3043a-0"></template>
+
+<template name="data-v-36d71d47-backText-1ed3043a-0">返回</template>
+
+<template name="data-v-36d71d47-content-1ed3043a-0">每月新品</template>
+
+<template name="M0c776f3a-default-0c776f3a-0"></template>
+
+<template name="M0c776f3a-backText-0c776f3a-0">返回</template>
+
+<template name="M0c776f3a-content-0c776f3a-0">每月新产品</template>
+
+<template name="M1c6f81da-default-1c6f81da-0"></template>
+
+<template name="M1c6f81da-backText-1c6f81da-0">返回</template>
+
+<template name="M1c6f81da-content-1c6f81da-0">购物车</template>
+
+<template name="Mf89a1c70-default-f89a1c70-0"></template>
+
+<template bindtap="handleProxy" data-eventid="{{'f89a1c70-0'}}" data-comkey="{{$k}}" name="Mf89a1c70-backText-f89a1c70-0"><view wx:if="{{user.wxProfile}}" class="_view Mf89a1c70 cu-avatar round" style=" {{'background-image:url(' + user.wxProfile.avatarUrl + '); margin: 0 ;'}}"></view><view wx:if="{{user.wxProfile}}" class="_p Mf89a1c70 margin-lr">{{ user.wxProfile.nickName }}</view><view class="_div Mf89a1c70 cu-tag bg-red radius">关注</view></template>
+
+<template name="data-v-297d4dee-default-991b0688-0"></template>
+
+<template name="data-v-297d4dee-backText-991b0688-0">返回</template>
+
+<template name="data-v-297d4dee-content-991b0688-0">选择地址</template>
+
+<template name="M3312dd4c-default-3312dd4c-0"></template>
+
+<template name="M3312dd4c-backText-3312dd4c-0">返回</template>
+
+<template name="M3312dd4c-content-3312dd4c-0">账户金明细</template>
+
+<template name="M6a9d3ab4-default-6a9d3ab4-0"></template>
+
+<template name="M6a9d3ab4-backText-6a9d3ab4-0">返回</template>
+
+<template name="M6a9d3ab4-content-6a9d3ab4-0">个人资料</template>
+
+<template name="data-v-37d5f487-default-1abdf3fa-0"></template>
+
+<template name="data-v-37d5f487-backText-1abdf3fa-0">返回</template>
+
+<template name="data-v-37d5f487-content-1abdf3fa-0">收藏的产品</template>
+
+<template name="M7e8c7dcc-default-7e8c7dcc-0"></template>
+
+<template name="M7e8c7dcc-backText-7e8c7dcc-0">{{ i18n.qaBackItemDetail }}</template>
+
+<template name="M7e8c7dcc-content-7e8c7dcc-0">{{ i18n.qaFaq }}</template>
+
+<template name="M518a6b44-default-518a6b44-0"></template>
+
+<template name="M518a6b44-content-518a6b44-0">免费估值</template>
+
+<template name="data-v-29a13147-default-dc71cf8c-0"></template>
+
+<template name="data-v-29a13147-backText-dc71cf8c-0">返回</template>
+
+<template name="data-v-29a13147-content-dc71cf8c-0">增加地址</template>
+
+<template name="data-v-2b83f191-default-6168b1c4-0"></template>
+
+<template name="data-v-2b83f191-backText-6168b1c4-0">返回</template>
+
+<template name="data-v-2b83f191-content-6168b1c4-0">我的地址</template>
+
