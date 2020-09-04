@@ -17,7 +17,7 @@
     "express": "^4.16.4",
     "graphql-request": "^1.8.2",
     "jsrsasign": "^8.0.12",
-    "kerberos": "~0.0.x",
+    "kerberos": "~1.0.x",
     "mage2-webapi": "^1.0.0",
     "multer": "^1.4.1",
     "node-magento2": "^1.1.4",
